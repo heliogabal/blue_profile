@@ -7,6 +7,9 @@ api = "2"
 projects[admin_menu][version] = "3.0-rc4"
 projects[admin_menu][subdir] = "contrib"
 
+projects[admin_views][version] = "1.2"
+projects[admin_views][subdir] = "contrib"
+
 projects[fpa][version] = "2.3"
 projects[fpa][subdir] = "contrib"
 
@@ -15,6 +18,12 @@ projects[advagg][subdir] = "contrib"
 
 projects[bundle_copy][version] = "2.x-dev"
 projects[bundle_copy][subdir] = "contrib"
+
+projects[ccl][version] = "1.5"
+projects[ccl][subdir] = "contrib"
+
+projects[ckeditor][version] = "1.13"
+projects[ckeditor][subdir] = "contrib"
 
 projects[ctools][version] = "1.3"
 projects[ctools][subdir] = "contrib"
@@ -34,8 +43,17 @@ projects[feeds][subdir] = "contrib"
 projects[feeds_imagegrabber][version] = "1.0-alpha2"
 projects[feeds][subdir] = "contrib"
 
+projects[follow][version] = "2.0-alpha1"
+projects[follow][subdir] = "contrib"
+
+projects[fontyourface][version] = "2.8"
+projects[fontyourface][subdir] = "contrib"
+
 projects[addressfield][version] = "1.0-beta4"
 projects[addressfield][subdir] = "contrib"
+
+projects[addanother][version] = "2.1"
+projects[addanother][subdir] = contrib
 
 projects[email][version] = "1.2"
 projects[email][subdir] = "contrib"
@@ -57,6 +75,9 @@ projects[float_filter][subdir] = "contrib"
 
 projects[image_resize_filter][version] = "1.13"
 projects[image_resize_filter][subdir] = "contrib"
+
+projects[imagemagick][version] = "1.0"
+projects[imagemagick][subdir] = "contrib"
 
 projects[mailsystem][version] = "2.34"
 projects[mailsystem][subdir] = "contrib"
@@ -111,6 +132,9 @@ projects[insert][subdir] = "contrib"
 projects[jcaption][version] = "1.3"
 projects[jcaption][subdir] = "contrib"
 
+projects[jquery_update][version] = "2.3"
+projects[jquery_update][subdir] = "contrib"
+
 projects[libraries][version] = "2.1"
 projects[libraries][subdir] = "contrib"
 
@@ -164,6 +188,9 @@ projects[token][subdir] = "contrib"
 
 projects[transliteration][version] = "3.1"
 projects[transliteration][subdir] = "contrib"
+
+projects[underscore][version] = "2.1"
+projects[underscore][subdir] = "contrib"
 
 projects[variable_clean][version] = "1.x-dev"
 projects[variable_clean][subdir] = "contrib"
