@@ -1,0 +1,131 @@
+; Packaging information for blue
+name = "blue"
+description = "Standard Blog functions profile with slideshow"
+exclusive = "1"
+core = "7.x"
+; ----------
+; Abhängigkeiten
+; ----------
+; Administration
+dependencies[] = admin_menu
+dependencies[] = fpa
+; Advanced CSS/JS Aggregation
+dependencies[] = advagg
+dependencies[] = advagg_bundler
+dependencies[] = advagg_css_compress
+dependencies[] = advagg_js_compress
+; Chaos tool suite
+dependencies[] = ctools
+; Core
+dependencies[] = block
+dependencies[] = contact
+dependencies[] = contextual
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = image
+dependencies[] = locale
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = user
+; Date/Time
+;dependencies[] = date
+;dependencies[] = date_all_day
+;dependencies[] = date_api
+;dependencies[] = date_popup
+;dependencies[] = date_tools
+;dependencies[] = date_views
+; Display Suite
+dependencies[] = ds
+dependencies[] = ds_extras
+; Fields
+;dependencies[] = addressfield
+;dependencies[] = email
+dependencies[] = field_group
+;dependencies[] = link
+;dependencies[] = name
+;dependencies[] = vgwort
+; Input filters
+dependencies[] = float_filter
+dependencies[] = image_resize_filter
+; Mail
+;dependencies[] = mailsystem
+;dependencies[] = mimemail
+;dependencies[] = mimemail_compress
+;dependencies[] = simplenews
+; Media
+dependencies[] = file_entity
+dependencies[] = media
+dependencies[] = media_feeds
+dependencies[] = media_internet
+dependencies[] = media_vimeo
+dependencies[] = media_youtube
+; Multilingual
+dependencies[] = l10n_update
+; Other
+dependencies[] = bundle_copy
+dependencies[] = better_formats
+dependencies[] = breakpoints
+dependencies[] = colorbox
+dependencies[] = diff
+dependencies[] = entity
+dependencies[] = feeds
+dependencies[] = feeds_ui
+dependencies[] = feeds_imagegrabber
+dependencies[] = google_fonts
+dependencies[] = insert
+dependencies[] = jcaption
+dependencies[] = job_scheduler
+dependencies[] = libraries
+dependencies[] = linkit
+dependencies[] = linkit_target
+dependencies[] = login_destination
+dependencies[] = login_security
+dependencies[] = mediaelement
+dependencies[] = module_filter
+dependencies[] = pathauto
+dependencies[] = redirect
+dependencies[] = robotstxt
+dependencies[] = save_draft
+;dependencies[] = scheduler
+dependencies[] = socialshareprivacy
+dependencies[] = token
+dependencies[] = transliteration
+;dependencies[] = variable_clean
+; Performance and scalability
+dependencies[] = entitycache
+; Picture
+dependencies[] = picture
+; Printer, email and PDF versions
+dependencies[] = print
+dependencies[] = print_mail
+; Styles
+dependencies[] = file_styles
+dependencies[] = styles
+; Taxonomy
+;dependencies[] = tagclouds
+; User interface
+dependencies[] = wysiwyg
+; Views
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_nivo_slider
+dependencies[] = views_ui
+; Webform
+dependencies[] = webform
+; Workbench
+dependencies[] = workbench
+dependencies[] = workbench_media
+; Features
+;dependencies[] = features

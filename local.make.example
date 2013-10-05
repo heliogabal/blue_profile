@@ -1,0 +1,40 @@
+; blue make file for local development
+core = "7.x"
+api = "2"
+
+;projects[drupal][version] = "7.x"
+;Use Omega8 core instead of Drupal core:
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "http://files.aegir.cc/dev/drupal-7.23.1.tar.gz"
+; include the d.o. profile base
+includes[] = "drupal-org.make"
+
+; +++++ TODO modules without versions +++++
+
+;projects[vgwort][version] = "" ; TODO add version
+;projects[vgwort][subdir] = "custom"
+
+; +++++ Libraries +++++
+
+; socialshareprivacy
+;libraries[socialshareprivacy][directory_name] = "socialshareprivacy"
+;libraries[socialshareprivacy][type] = "library"
+;libraries[socialshareprivacy][destination] = "libraries"
+;libraries[socialshareprivacy][download][type] = "get"
+;libraries[socialshareprivacy][download][url] = "http://www.heise.de/extras/socialshareprivacy/jquery.socialshareprivacy.tar.gz" ; TODO add download URI
+
+; mediaelement
+;libraries[mediaelement][directory_name] = "mediaelement"
+;libraries[mediaelement][type] = "library"
+;libraries[mediaelement][destination] = "libraries"
+;libraries[mediaelement][download][type] = "get"
+;libraries[mediaelement][download][url] = "http://github.com/johndyer/mediaelement/archive/2.12.0.zip" ; TODO add download URI
+
+; nivo-slider
+;libraries[nivo-slider][directory_name] = "nivo-slider"
+;libraries[nivo-slider][type] = "library"
+;libraries[nivo-slider][destination] = "libraries"
+;libraries[nivo-slider][download][type] = "get"
+;libraries[nivo-slider][download][url] = "http://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider2.7.zip" ; TODO add download URI
+
