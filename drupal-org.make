@@ -79,6 +79,9 @@ projects[image_resize_filter][subdir] = "contrib"
 projects[imagemagick][version] = "1.0"
 projects[imagemagick][subdir] = "contrib"
 
+projects[i18n][version] = "1.10"
+projects[i18n][subdir] = "contrib"
+
 projects[mailsystem][version] = "2.34"
 projects[mailsystem][subdir] = "contrib"
 
@@ -213,6 +216,9 @@ projects[tagclouds][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 
+projects[variable][version] = "2.3"
+projects[variable][subdir] = "contrib"
+
 projects[views][version] = "3.7"
 projects[views][subdir] = "contrib"
 
@@ -247,6 +253,17 @@ projects[rubik][subdir] = "contrib"
 projects[shiny][type] = "theme"
 projects[shiny][version] = "1.3"
 projects[shiny][subdir] = "contrib"
+
+; mothership
+projects[mothership][type] = "theme"
+projects[mothership][version] = "2.10"
+
+; luise
+projects[luise][type] = "theme"
+projects[luise][download][type] = "git"
+projects[luise][download][url] = "http://github.com/heliogabal/luise.git"
+projects[luise][download][branch] = "master"
+;projects[luise][download][revision] = "b4b38c3"
 
 ; tao
 ;projects[tao][type] = "theme"
