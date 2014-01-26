@@ -64,7 +64,7 @@ projects[job_scheduler][subdir] = "contrib"
 projects[field_group][version] = "1.1"
 projects[field_group][subdir] = "contrib"
 
-projects[link][version] = "1.1"
+projects[link][version] = "1.2"
 projects[link][subdir] = "contrib"
 
 projects[name][version] = "1.9"
@@ -123,7 +123,7 @@ projects[colorbox][subdir] = "contrib"
 projects[diff][version] = "3.2"
 projects[diff][subdir] = "contrib"
 
-projects[entity][version] = "1.2"
+projects[entity][version] = "1.3"
 projects[entity][subdir] = "contrib"
 
 projects[google_fonts][version] = "2.3"
@@ -198,10 +198,10 @@ projects[underscore][subdir] = "contrib"
 projects[variable_clean][version] = "1.x-dev"
 projects[variable_clean][subdir] = "contrib"
 
-projects[entitycache][version] = "1.x-dev"
+projects[entitycache][version] = "1.2"
 projects[entitycache][subdir] = "contrib"
 
-projects[picture][version] = "1.1"
+projects[picture][version] = "1.2"
 projects[picture][subdir] = "contrib"
 
 projects[print][version] = "1.2"
