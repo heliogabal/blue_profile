@@ -13,7 +13,7 @@ projects[admin_views][subdir] = "contrib"
 projects[fpa][version] = "2.3"
 projects[fpa][subdir] = "contrib"
 
-projects[advagg][version] = "2.0-rc4"
+projects[advagg][version] = "2.4"
 projects[advagg][subdir] = "contrib"
 
 projects[bundle_copy][version] = "2.x-dev"
@@ -28,7 +28,7 @@ projects[ckeditor][subdir] = "contrib"
 projects[ctools][version] = "1.3"
 projects[ctools][subdir] = "contrib"
 
-projects[date][version] = "2.6"
+projects[date][version] = "2.7"
 projects[date][subdir] = "contrib"
 
 projects[ds][version] = "2.6"
@@ -216,13 +216,13 @@ projects[tagclouds][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 
-projects[variable][version] = "2.3"
+projects[variable][version] = "2.4"
 projects[variable][subdir] = "contrib"
 
 projects[views][version] = "3.7"
 projects[views][subdir] = "contrib"
 
-projects[views_bulk_operations][version] = "3.1"
+projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][subdir] = "contrib"
 
 projects[views_nivo_slider][version] = "3.x-dev"
@@ -251,7 +251,7 @@ projects[rubik][subdir] = "contrib"
 
 ; shiny
 projects[shiny][type] = "theme"
-projects[shiny][version] = "1.3"
+projects[shiny][version] = "1.4"
 projects[shiny][subdir] = "contrib"
 
 ; mothership
