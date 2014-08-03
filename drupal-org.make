@@ -7,7 +7,7 @@ api = "2"
 projects[admin_menu][version] = "3.0-rc4"
 projects[admin_menu][subdir] = "contrib"
 
-projects[admin_views][version] = "1.2"
+projects[admin_views][version] = "1.3"
 projects[admin_views][subdir] = "contrib"
 
 projects[fpa][version] = "2.5"
@@ -22,7 +22,7 @@ projects[bundle_copy][subdir] = "contrib"
 projects[ccl][version] = "1.5"
 projects[ccl][subdir] = "contrib"
 
-projects[ckeditor][version] = "1.13"
+projects[ckeditor][version] = "1.15"
 projects[ckeditor][subdir] = "contrib"
 
 projects[ctools][version] = "1.4"
@@ -52,7 +52,7 @@ projects[fontyourface][subdir] = "contrib"
 projects[addressfield][version] = "1.0-beta4"
 projects[addressfield][subdir] = "contrib"
 
-projects[addanother][version] = "2.1"
+projects[addanother][version] = "2.2"
 projects[addanother][subdir] = contrib
 
 projects[email][version] = "1.2"
@@ -79,7 +79,7 @@ projects[image_resize_filter][subdir] = "contrib"
 projects[imagemagick][version] = "1.0"
 projects[imagemagick][subdir] = "contrib"
 
-projects[i18n][version] = "1.10"
+projects[i18n][version] = "1.11"
 projects[i18n][subdir] = "contrib"
 
 projects[mailsystem][version] = "2.34"
@@ -135,7 +135,7 @@ projects[insert][subdir] = "contrib"
 projects[jcaption][version] = "1.4"
 projects[jcaption][subdir] = "contrib"
 
-projects[jquery_update][version] = "2.3"
+projects[jquery_update][version] = "2.4"
 projects[jquery_update][subdir] = "contrib"
 
 projects[libraries][version] = "2.2"
@@ -171,7 +171,10 @@ projects[profiler_builder][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc1"
 projects[redirect][subdir] = "contrib"
 
-projects[robotstxt][version] = "1.1"
+projects[responsive_menu][version] = "1.5"
+projects[responsive_menu][subdir] = "contrib"
+
+projects[robotstxt][version] = "1.2"
 projects[robotstxt][subdir] = "contrib"
 
 projects[save_draft][version] = "1.4"
@@ -216,7 +219,7 @@ projects[tagclouds][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 
-projects[variable][version] = "2.4"
+projects[variable][version] = "2.5"
 projects[variable][subdir] = "contrib"
 
 projects[views][version] = "3.8"
@@ -251,7 +254,7 @@ projects[rubik][subdir] = "contrib"
 
 ; shiny
 projects[shiny][type] = "theme"
-projects[shiny][version] = "1.5"
+projects[shiny][version] = "1.6"
 projects[shiny][subdir] = "contrib"
 
 ; mothership
