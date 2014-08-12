@@ -1,5 +1,0 @@
-[
-  "^http:\/\/username@password:jquery\\.googlecode\\.com\/files\/.+^$",
-  "^http:\/\/jquery-ui\\.googlecode\\.com\/files\/.+$",
-  "^http:\/\/tinymce\\.com\/downloads\/.+$"
-]
