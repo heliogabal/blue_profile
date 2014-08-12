@@ -129,6 +129,9 @@ projects[entity][subdir] = "contrib"
 projects[google_fonts][version] = "2.3"
 projects[google_fonts][subdir] = "contrib"
 
+projects[imageapi_optimize][version] = "1.0"
+projects[imageapi_optimize][subdir] = "contrib"
+
 projects[insert][version] = "1.3"
 projects[insert][subdir] = "contrib"
 
@@ -155,6 +158,9 @@ projects[login_security][subdir] = "contrib"
 
 projects[mediaelement][version] = "1.2"
 projects[mediaelement][subdir] = "contrib"
+
+projects[metatag][version] = "1.0-rc2"
+projects[metatag][subdir] = "contrib"
 
 projects[module_filter][version] = "1.8"
 projects[module_filter][subdir] = "contrib"
@@ -185,6 +191,12 @@ projects[scheduler][subdir] = "contrib"
 
 projects[socialshareprivacy][version] = "1.11"
 projects[socialshareprivacy][subdir] = "contrib"
+
+projects[system_status][version] = "2.7"
+projects[system_status][subdir] = "contrib"
+
+;projects[svg_logo][version] = ""
+;projects[svg_logo][subdir] = "contrib"
 
 projects[title][version] = "1.0-alpha7"
 projects[title][subdir] = "contrib"
