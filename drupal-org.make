@@ -171,8 +171,8 @@ projects[profiler_builder][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc1"
 projects[redirect][subdir] = "contrib"
 
-projects[responsive_menu][version] = "1.5"
-projects[responsive_menu][subdir] = "contrib"
+projects[responsive_menus][version] = "1.5"
+projects[responsive_menus][subdir] = "contrib"
 
 projects[robotstxt][version] = "1.2"
 projects[robotstxt][subdir] = "contrib"
