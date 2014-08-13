@@ -280,6 +280,12 @@ projects[luise][download][url] = "http://github.com/heliogabal/luise.git"
 projects[luise][download][branch] = "master"
 ;projects[luise][download][revision] = "b4b38c3"
 
+; blue
+projects[blue][type] = "theme"
+projects[blue][download][type] = "git"
+projects[blue][download][url] = "http://github.com/heliogabal/blue.git"
+projects[blue][download][branch] = "master"
+
 ; tao
 ;projects[tao][type] = "theme"
 ;projects[tao][version] = "3.0-beta4"
