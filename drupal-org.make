@@ -13,7 +13,7 @@ projects[admin_views][subdir] = "contrib"
 projects[fpa][version] = "2.5"
 projects[fpa][subdir] = "contrib"
 
-projects[advagg][version] = "2.4"
+projects[advagg][version] = "2.7"
 projects[advagg][subdir] = "contrib"
 
 projects[bundle_copy][version] = "2.x-dev"
@@ -28,13 +28,13 @@ projects[ckeditor][subdir] = "contrib"
 projects[ctools][version] = "1.4"
 projects[ctools][subdir] = "contrib"
 
-projects[date][version] = "2.7"
+projects[date][version] = "2.8"
 projects[date][subdir] = "contrib"
 
 projects[ds][version] = "2.6"
 projects[ds][subdir] = "contrib"
 
-projects[features][version] = "2.0-rc2"
+projects[features][version] = "2.2"
 projects[features][subdir] = "contrib"
 
 projects[feeds][version] = "2.0-alpha8"
@@ -91,10 +91,10 @@ projects[mimemail][subdir] = "contrib"
 projects[simplenews][version] = "1.0"
 projects[simplenews][subdir] = "contrib"
 
-projects[file_entity][version] = "2.0-alpha2"
+projects[file_entity][version] = "2.0-alpha3"
 projects[file_entity][subdir] = "contrib"
 
-projects[media][version] = "2.0-alpha2"
+projects[media][version] = "2.0-alpha3"
 projects[media][subdir] = "contrib"
 ; http://drupal.org/node/1411340
 projects[media][patch][] = http://drupal.org/files/media-resize_images_in_wysiwyg-1411340-58.patch
@@ -105,7 +105,7 @@ projects[media_feeds][subdir] = "contrib"
 projects[media_vimeo][version] = "2.x-dev"
 projects[media_vimeo][subdir] = "contrib"
 
-projects[media_youtube][version] = "2.0-rc3"
+projects[media_youtube][version] = "2.0-rc4"
 projects[media_youtube][subdir] = "contrib"
 
 projects[l10n_update][version] = "1.0-beta3"
@@ -114,7 +114,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 projects[better_formats][subdir] = "contrib"
 
-projects[breakpoints][version] = "1.2"
+projects[breakpoints][version] = "1.3"
 projects[breakpoints][subdir] = "contrib"
 
 projects[colorbox][version] = "2.7"
@@ -292,7 +292,7 @@ projects[luise][download][branch] = "master"
 
 ; omega
 projects[omega][type] = "theme"
-projects[omega][version] = "4.0-beta7"
+projects[omega][version] = "4.2"
 projects[omega][subdir] = "contrib"
 
 ; poultry
