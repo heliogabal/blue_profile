@@ -108,7 +108,7 @@ projects[media_vimeo][subdir] = "contrib"
 projects[media_youtube][version] = "2.0-rc4"
 projects[media_youtube][subdir] = "contrib"
 
-projects[l10n_update][version] = "1.0-beta3"
+projects[l10n_update][version] = "1.0"
 projects[l10n_update][subdir] = "contrib"
 
 projects[better_formats][version] = "1.0-beta1"
