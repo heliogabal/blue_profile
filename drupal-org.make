@@ -10,7 +10,7 @@ projects[admin_menu][subdir] = "contrib"
 projects[admin_views][version] = "1.3"
 projects[admin_views][subdir] = "contrib"
 
-projects[fpa][version] = "2.5"
+projects[fpa][version] = "2.6"
 projects[fpa][subdir] = "contrib"
 
 projects[advagg][version] = "2.7"
@@ -117,7 +117,7 @@ projects[better_formats][subdir] = "contrib"
 projects[breakpoints][version] = "1.3"
 projects[breakpoints][subdir] = "contrib"
 
-projects[colorbox][version] = "2.7"
+projects[colorbox][version] = "2.8"
 projects[colorbox][subdir] = "contrib"
 
 projects[diff][version] = "3.2"
@@ -240,7 +240,7 @@ projects[views][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][subdir] = "contrib"
 
-projects[views_nivo_slider][version] = "3.x-dev"
+projects[views_nivo_slider][version] = "3.0-alpha1"
 projects[views_nivo_slider][subdir] = "contrib"
 
 projects[webform][version] = "3.18"
@@ -298,7 +298,7 @@ projects[blue][download][branch] = "master"
 
 ; omega
 projects[omega][type] = "theme"
-projects[omega][version] = "4.2"
+projects[omega][version] = "4.3"
 projects[omega][subdir] = "contrib"
 
 ; poultry
@@ -339,7 +339,7 @@ libraries[nivo-slider][directory_name] = "nivo-slider"
 libraries[nivo-slider][type] = "library"
 libraries[nivo-slider][destination] = "libraries"
 libraries[nivo-slider][download][type] = "get"
-libraries[nivo-slider][download][url] = "http://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider2.7.zip"
+libraries[nivo-slider][download][url] = "http://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider3.1.zip"
 
 ; socialshareprivacy
 libraries[socialshareprivacy][directory_name] = "socialshareprivacy"
