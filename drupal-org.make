@@ -174,6 +174,9 @@ projects[pathauto][subdir] = "contrib"
 projects[profiler_builder][version] = "1.0-rc4"
 projects[profiler_builder][subdir] = "contrib"
 
+projects[globalredirect][version] = "1.5"
+projects[globalredirect][subdir] = "contrib"
+
 projects[redirect][version] = "1.0-rc1"
 projects[redirect][subdir] = "contrib"
 
@@ -216,7 +219,7 @@ projects[variable_clean][subdir] = "contrib"
 projects[entitycache][version] = "1.2"
 projects[entitycache][subdir] = "contrib"
 
-projects[picture][version] = "1.5"
+projects[picture][version] = "2.7"
 projects[picture][subdir] = "contrib"
 
 projects[print][version] = "1.3"
