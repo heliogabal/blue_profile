@@ -22,7 +22,7 @@ projects[bundle_copy][subdir] = "contrib"
 projects[ccl][version] = "1.5"
 projects[ccl][subdir] = "contrib"
 
-projects[ckeditor][version] = "1.15"
+projects[ckeditor][version] = "1.16"
 projects[ckeditor][subdir] = "contrib"
 
 projects[ctools][version] = "1.5"
@@ -64,7 +64,7 @@ projects[job_scheduler][subdir] = "contrib"
 projects[field_group][version] = "1.4"
 projects[field_group][subdir] = "contrib"
 
-projects[link][version] = "1.2"
+projects[link][version] = "1.3"
 projects[link][subdir] = "contrib"
 
 projects[name][version] = "1.9"
@@ -79,7 +79,7 @@ projects[image_resize_filter][subdir] = "contrib"
 projects[imagemagick][version] = "1.0"
 projects[imagemagick][subdir] = "contrib"
 
-projects[i18n][version] = "1.11"
+projects[i18n][version] = "1.12"
 projects[i18n][subdir] = "contrib"
 
 projects[mailsystem][version] = "2.34"
@@ -129,7 +129,7 @@ projects[entity][subdir] = "contrib"
 projects[google_fonts][version] = "2.3"
 projects[google_fonts][subdir] = "contrib"
 
-projects[imageapi_optimize][version] = "1.0"
+projects[imageapi_optimize][version] = "1.2"
 projects[imageapi_optimize][subdir] = "contrib"
 
 projects[insert][version] = "1.3"
