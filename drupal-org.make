@@ -4,7 +4,7 @@ api = "2"
 
 ; +++++ Modules +++++
 
-projects[admin_menu][version] = "3.0-rc4"
+projects[admin_menu][version] = "3.0-rc5"
 projects[admin_menu][subdir] = "contrib"
 
 projects[admin_views][version] = "1.3"
@@ -25,7 +25,7 @@ projects[ccl][subdir] = "contrib"
 projects[ckeditor][version] = "1.16"
 projects[ckeditor][subdir] = "contrib"
 
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.6"
 projects[ctools][subdir] = "contrib"
 
 projects[date][version] = "2.8"
@@ -91,10 +91,10 @@ projects[mimemail][subdir] = "contrib"
 projects[simplenews][version] = "1.0"
 projects[simplenews][subdir] = "contrib"
 
-projects[file_entity][version] = "2.0-alpha3"
+projects[file_entity][version] = "2.0-beta1"
 projects[file_entity][subdir] = "contrib"
 
-projects[media][version] = "2.0-alpha3"
+projects[media][version] = "2.0-alpha4"
 projects[media][subdir] = "contrib"
 ; http://drupal.org/node/1411340
 projects[media][patch][] = http://drupal.org/files/media-resize_images_in_wysiwyg-1411340-58.patch
@@ -108,7 +108,7 @@ projects[media_vimeo][subdir] = "contrib"
 projects[media_youtube][version] = "2.0-rc4"
 projects[media_youtube][subdir] = "contrib"
 
-projects[l10n_update][version] = "1.0"
+projects[l10n_update][version] = "1.1"
 projects[l10n_update][subdir] = "contrib"
 
 projects[better_formats][version] = "1.0-beta1"
