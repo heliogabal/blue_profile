@@ -342,7 +342,8 @@ libraries[nivo-slider][directory_name] = "nivo-slider"
 libraries[nivo-slider][type] = "library"
 libraries[nivo-slider][destination] = "libraries"
 libraries[nivo-slider][download][type] = "get"
-libraries[nivo-slider][download][url] = "http://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider3.1.zip"
+;libraries[nivo-slider][download][url] = "http://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider3.1.zip"
+libraries[nivo-slider][download][url] = "https://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider2.7.1.zip"
 
 ; socialshareprivacy
 libraries[socialshareprivacy][directory_name] = "socialshareprivacy"
