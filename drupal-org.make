@@ -25,16 +25,16 @@ projects[ccl][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
 projects[ckeditor][subdir] = "contrib"
 
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.5"
 projects[ctools][subdir] = "contrib"
 
 projects[date][version] = "2.8"
 projects[date][subdir] = "contrib"
 
-projects[ds][version] = "2.6"
+projects[ds][version] = "2.7"
 projects[ds][subdir] = "contrib"
 
-projects[features][version] = "2.2"
+projects[features][version] = "2.3"
 projects[features][subdir] = "contrib"
 
 projects[feeds][version] = "2.0-alpha8"
@@ -70,7 +70,7 @@ projects[link][subdir] = "contrib"
 projects[name][version] = "1.9"
 projects[name][subdir] = "contrib"
 
-projects[float_filter][version] = "1.1"
+projects[float_filter][version] = "1.2"
 projects[float_filter][subdir] = "contrib"
 
 projects[image_resize_filter][version] = "1.14"
@@ -138,13 +138,13 @@ projects[insert][subdir] = "contrib"
 projects[jcaption][version] = "1.4"
 projects[jcaption][subdir] = "contrib"
 
-projects[jquery_update][version] = "2.4"
+projects[jquery_update][version] = "2.5"
 projects[jquery_update][subdir] = "contrib"
 
 projects[libraries][version] = "2.2"
 projects[libraries][subdir] = "contrib"
 
-projects[linkit][version] = "2.6"
+projects[linkit][version] = "2.7"
 projects[linkit][subdir] = "contrib"
 
 projects[linkit_target][version] = "1.0"
@@ -165,7 +165,7 @@ projects[metatag][subdir] = "contrib"
 projects[module_filter][version] = "1.8"
 projects[module_filter][subdir] = "contrib"
 
-projects[panels][version] = "3.4"
+projects[panels][version] = "3.5"
 projects[panels][subdir] = "contrib"
 
 projects[pathauto][version] = "1.2"
@@ -183,7 +183,7 @@ projects[redirect][subdir] = "contrib"
 projects[responsive_menus][version] = "1.5"
 projects[responsive_menus][subdir] = "contrib"
 
-projects[robotstxt][version] = "1.2"
+projects[robotstxt][version] = "1.3"
 projects[robotstxt][subdir] = "contrib"
 
 projects[save_draft][version] = "1.4"
@@ -219,7 +219,7 @@ projects[variable_clean][subdir] = "contrib"
 projects[entitycache][version] = "1.2"
 projects[entitycache][subdir] = "contrib"
 
-projects[picture][version] = "2.7"
+projects[picture][version] = "2.9"
 projects[picture][subdir] = "contrib"
 
 projects[print][version] = "1.3"
@@ -237,7 +237,7 @@ projects[wysiwyg][subdir] = "contrib"
 projects[variable][version] = "2.5"
 projects[variable][subdir] = "contrib"
 
-projects[views][version] = "3.8"
+projects[views][version] = "3.10"
 projects[views][subdir] = "contrib"
 
 projects[views_bulk_operations][version] = "3.2"
