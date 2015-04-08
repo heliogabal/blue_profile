@@ -246,7 +246,7 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_nivo_slider][version] = "3.0-alpha1"
 projects[views_nivo_slider][subdir] = "contrib"
 
-projects[webform][version] = "3.18"
+projects[webform][version] = "3.21"
 projects[webform][subdir] = "contrib"
 
 projects[workbench][version] = "1.2"
