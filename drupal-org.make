@@ -7,7 +7,7 @@ api = "2"
 projects[admin_menu][version] = "3.0-rc5"
 projects[admin_menu][subdir] = "contrib"
 
-projects[admin_views][version] = "1.3"
+projects[admin_views][version] = "1.4"
 projects[admin_views][subdir] = "contrib"
 
 projects[fpa][version] = "2.6"
@@ -25,7 +25,7 @@ projects[ccl][subdir] = "contrib"
 projects[ckeditor][version] = "1.16"
 projects[ckeditor][subdir] = "contrib"
 
-projects[ctools][version] = "1.6"
+projects[ctools][version] = "1.7"
 projects[ctools][subdir] = "contrib"
 
 projects[date][version] = "2.8"
@@ -34,7 +34,7 @@ projects[date][subdir] = "contrib"
 projects[ds][version] = "2.7"
 projects[ds][subdir] = "contrib"
 
-projects[features][version] = "2.3"
+projects[features][version] = "2.4"
 projects[features][subdir] = "contrib"
 
 projects[feeds][version] = "2.0-alpha8"
@@ -123,7 +123,7 @@ projects[colorbox][subdir] = "contrib"
 projects[diff][version] = "3.2"
 projects[diff][subdir] = "contrib"
 
-projects[entity][version] = "1.5"
+projects[entity][version] = "1.6"
 projects[entity][subdir] = "contrib"
 
 projects[google_fonts][version] = "2.3"
@@ -204,7 +204,7 @@ projects[system_status][subdir] = "contrib"
 projects[title][version] = "1.0-alpha7"
 projects[title][subdir] = "contrib"
 
-projects[token][version] = "1.5"
+projects[token][version] = "1.6"
 projects[token][subdir] = "contrib"
 
 projects[transliteration][version] = "3.2"
